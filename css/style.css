@@ -1,0 +1,28 @@
+body{
+   background-color: #e1caca; 
+}
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    font-family:Lucida, Arial, Helvetica, sans-serif;
+    background-color: #d1909c;
+}
+
+.center{
+    text-align: center;
+    
+}
+
+footer{
+    clear: both;
+    height: 100px;
+    text-align: center;
+    background-color: #7f9990;
+
+}
+
+p{
+    line-height: 100px;
+}
+
+
